@@ -2,10 +2,6 @@
 
 A simple and responsive weather application built with **Python**, **Streamlit**, and the **WeatherAPI.com** to fetch and display real-time weather data based on user input.
 
-## 🖼️ Demo Screenshot
-
-> *(Optional: Add screenshot.png of your app running here)*
-
 ## 🔥 Features
 
 - 🌍 Enter any city name to get real-time weather info
